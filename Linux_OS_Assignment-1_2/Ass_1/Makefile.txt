@@ -1,0 +1,9 @@
+Target:
+	gcc a1.c -o prob_1
+	gcc a2.c -o prob_2
+	gcc a3.c -o prob_3
+	gcc a4.c -o prob_4
+	gcc a5.c -o prob_5
+	gcc a6.c -o prob_6
+	gcc a7.c -o prob_7
+	

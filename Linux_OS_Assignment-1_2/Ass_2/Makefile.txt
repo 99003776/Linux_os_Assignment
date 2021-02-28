@@ -1,0 +1,7 @@
+target:
+	gcc Ass_2_1.c -o prob_1
+	gcc Ass_2_3.c -o prob_2
+	gcc Ass_2_4Client.c -o prob_3a
+	gcc Ass_2_4Server.c -o prob_3b
+	gcc Ass_2_5Receiver.c -o prob_4a
+	gcc Ass_2_5Sender.c -o prob_4b
